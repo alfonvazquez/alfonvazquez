@@ -11,7 +11,7 @@
 - 🔧 Professional programmer focused on **Python and .NET data pipelines**
 - 📊 I work with large datasets: cleaning, matching and transforming inventory and demand data
 - 🎓 Physics graduate, with a postgraduate in *Organizational Management, Key Competencies and Data Analytics*
-- 📈 Final degree project: **spare-parts demand forecasting** (intermittent demand, 300k+ records)
+- 📈 Final degree project: | 📉 [**Spare-Parts Demand Forecasting**](https://github.com/alfonvazquez/Forecasting-study-for-intermittent-demand) | Forecasting of intermittent demand (2022–2026) for my Physics final degree project |
 - 🎮 In my free time I reverse-engineer game file formats and play with security labs
 
 ## 🛠️ Tech stack
