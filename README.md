@@ -11,7 +11,7 @@
 - 🔧 Professional programmer focused on **Python and .NET data pipelines**
 - 📊 I work with large datasets: cleaning, matching and transforming inventory and demand data
 - 🎓 Physics graduate, with a postgraduate in *Organizational Management, Key Competencies and Data Analytics*
-- 📈 Final degree project: | 📉 [**Spare-Parts Demand Forecasting**](https://github.com/alfonvazquez/Forecasting-study-for-intermittent-demand) for my Physics final degree project |
+- 📈 Final degree project: **Spare-Parts Demand Forecasting** (intermittent demand, 300k+ records)
 - 🎮 In my free time I reverse-engineer game file formats and play with security labs
 
 ## 🛠️ Tech stack
@@ -26,10 +26,10 @@
 
 | Project | Description |
 |---|---|
-| 📦 **Inventory–Demand Pipeline** | Python pipeline that matches inventory with demand records across weekly Excel files, with SQLite caching |
-| 📉 **Spare-Parts Demand Forecasting** | Forecasting of intermittent demand (2022–2026) for my Physics final degree project |
+| 📦 [**Inventory–Demand Pipeline**](https://github.com/alfonvazquez/Inventory_Readjust) | Python pipeline that matches inventory with demand records across weekly Excel files, with SQLite caching |
+| 📉 [**Spare-Parts Demand Forecasting**](https://github.com/alfonvazquez/Forecasting-study-for-intermittent-demand) | Forecasting of intermittent demand (2022–2026) for my Physics final degree project |
 | 🕹️ **Just Dance 2017 Modding** | Reverse engineering of the UbiArt engine formats to build custom songs |
-| 🍽️ **ASP.NET Core MVC app** | Course project with image upload and storage |
+| 🍽️ [**ASP.NET Core MVC app**](https://github.com/alfonvazquez/Meme-Repository) | Course project with image upload and storage |
 
 
 ## 📊 GitHub stats
