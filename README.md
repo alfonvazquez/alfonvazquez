@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About me
 
-- 🔧 Professional programmer focused on **Python data pipelines**
+- 🔧 Professional programmer focused on **Python and .NET data pipelines**
 - 📊 I work with large datasets: cleaning, matching and transforming inventory and demand data
 - 🎓 Physics graduate, with a postgraduate in *Organizational Management, Key Competencies and Data Analytics*
 - 📈 Final degree project: **spare-parts demand forecasting** (intermittent demand, 300k+ records)
