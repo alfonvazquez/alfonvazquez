@@ -45,4 +45,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-vazquez-25b2a4325//)
 
 ---
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
