@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alfonso 👋</h1>
 
-<!--
-**alfonvazquez/alfonvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+developer;Python+data+pipelines;Physics+background+%2B+data+analytics;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About me
+
+- 🔧 Professional programmer focused on **Python data pipelines**
+- 📊 I work with large datasets: cleaning, matching and transforming inventory and demand data
+- 🎓 Physics graduate, with a postgraduate in *Organizational Management, Key Competencies and Data Analytics*
+- 📈 Final degree project: **spare-parts demand forecasting** (intermittent demand, 300k+ records)
+- 🎮 In my free time I reverse-engineer game file formats and play with security labs
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite,cs,dotnet,git,github,windows,vscode" />
+</p>
+
+**Python:** pandas · NumPy · openpyxl · SQLite
+
+## 🚀 Featured projects
+
+| Project | Description |
+|---|---|
+| 📦 **Inventory–Demand Pipeline** | Python pipeline that matches inventory with demand records across weekly Excel files, with SQLite caching |
+| 📉 **Spare-Parts Demand Forecasting** | Forecasting of intermittent demand (2022–2026) for my Physics final degree project |
+| 🕹️ **Just Dance 2017 Modding** | Reverse engineering of the UbiArt engine formats to build custom songs |
+| 🍽️ **ASP.NET Core MVC app** | Course project with image upload and storage |
+
+> 🔗 Replace each project name with a link to its repository once they are public.
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+
+---
+<p align="center"><i>Thanks for stopping by! ⭐</i></p>
